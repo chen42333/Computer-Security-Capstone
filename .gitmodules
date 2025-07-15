@@ -1,0 +1,9 @@
+[submodule "HW1"]
+	path = HW1
+	url = git@github.com:Computer-Security-Capstone/csc2024-project1.git
+[submodule "HW2"]
+	path = HW2
+	url = git@github.com:Computer-Security-Capstone/csc2024-project2.git
+[submodule "HW3"]
+	path = HW3
+	url = git@github.com:Computer-Security-Capstone/csc2024-project3.git
