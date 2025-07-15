@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Hsuan/Desktop/Course/電腦安全總整與實作/Homework/HW4/csc2024-project4/source/shop",
+      "program": "/Users/Hsuan/Desktop/Course/電腦安全總整與實作/Homework/HW4/csc2024-project4/source/shop/build/Debug/outDebug"
+    }
+  ]
+}
