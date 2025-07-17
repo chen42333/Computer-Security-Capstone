@@ -1,5 +1,5 @@
 HOST = 140.113.24.241
-IMG_INPUT = Matryoshka\ dolls.jpg
+IMG_INPUT = ../source/doll/Matryoshka\ dolls.jpg
 IMG_OUTPUT = output.png
 
 all:
